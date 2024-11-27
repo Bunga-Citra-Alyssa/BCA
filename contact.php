@@ -61,7 +61,7 @@ $conn->close();
             <li><a href="index.html">𝐻𝑜𝓂𝑒</a></li>
             <li><a href="about.html">𝒜𝒷𝑜𝓊𝓉</a></li>
             <li><a href="portfolio.html">𝒫𝑜𝓇𝓉𝑜𝒻𝑜𝓁𝒾𝑜</a></li>
-            <li><a href="contact.php">𝒞𝑜𝓃𝓉𝒶𝒸𝓉</a></li>
+            <li><a href="contact.html">𝒞𝑜𝓃𝓉𝒶𝒸𝓉</a></li>
         </ul>
         <div class="top-btn">
             <a href="#contact" class="nav-btn">𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆</a>
